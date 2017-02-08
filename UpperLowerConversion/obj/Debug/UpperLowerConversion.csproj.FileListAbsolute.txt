@@ -1,0 +1,6 @@
+C:\Users\texas\Documents\programs\UpperLowerConversion\UpperLowerConversion\bin\Debug\UpperLowerConversion.exe.config
+C:\Users\texas\Documents\programs\UpperLowerConversion\UpperLowerConversion\bin\Debug\UpperLowerConversion.exe
+C:\Users\texas\Documents\programs\UpperLowerConversion\UpperLowerConversion\bin\Debug\UpperLowerConversion.pdb
+C:\Users\texas\Documents\programs\UpperLowerConversion\UpperLowerConversion\obj\Debug\UpperLowerConversion.csprojResolveAssemblyReference.cache
+C:\Users\texas\Documents\programs\UpperLowerConversion\UpperLowerConversion\obj\Debug\UpperLowerConversion.exe
+C:\Users\texas\Documents\programs\UpperLowerConversion\UpperLowerConversion\obj\Debug\UpperLowerConversion.pdb
